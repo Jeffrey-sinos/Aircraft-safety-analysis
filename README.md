@@ -31,7 +31,7 @@ This visualization illustrates the number of fatilities for different manufactur
 This visualization displays the number of fatilities for number of engines in an aircraft:
 <img src="Images/Fatal injuries by number of engines.png">
 
-For further exploration of this analysis I created an interacive dashboard that can be found here: https://public.tableau.com/views/Aircraft-safety-analysis/Airplaneincidentsanalysis?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link&:device=desktop
+For further exploration of this analysis I created an interactive dashboard that can be found here: https://public.tableau.com/views/Aircraft-safety-analysis/Airplaneincidentsanalysis?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link&:device=desktop
 
 ## Recommendations
 Based on the analysis done and the visualizations created, these were the three recommendations I would give the company:
