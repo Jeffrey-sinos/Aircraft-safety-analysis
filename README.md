@@ -23,13 +23,13 @@ The data used in this project was collected by the National Transportation and S
 - Total Fatal injuries
 
 This visualization shows the number of fatalities suffered per year:
-<img src="Images/fatal injuries per year graph.png" width="350">
+<img src="Images/fatal injuries per year graph.png">
 
 This visualization illustrates the number of fatilities for different manufacturers:
-<img src="Images/Fatal injuries by Aircraft Make.png" width="350">
+<img src="Images/Fatal injuries by Aircraft Make.png">
 
 This visualization displays the number of fatilities for number of engines in an aircraft:
-<img src="Images/Fatal injuries by number of engines.png" width="350">
+<img src="Images/Fatal injuries by number of engines.png">
 
 For further exploration of this analysis I created an interacive dashboard that can be found here: https://public.tableau.com/views/Aircraft-safety-analysis/Airplaneincidentsanalysis?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link&:device=desktop
 
